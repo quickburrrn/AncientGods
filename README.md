@@ -1,2 +1,2 @@
 # AncientGods
-Game
+Tap on "Projects"
